@@ -1,0 +1,17 @@
+{
+    "name": "alexi/ymmersion4b2",
+    "autoload": {
+        "psr-4": {
+            "Alexi\\Ymmersion4b2\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "2Alexis",
+            "email": "alexis.clerc@ynov.com"
+        }
+    ],
+    "require": {
+        "phpoffice/phpspreadsheet": "^4.0"
+    }
+}
